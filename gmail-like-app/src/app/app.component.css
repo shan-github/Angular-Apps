@@ -1,0 +1,12 @@
+#main-panel{
+    display: flex;
+    flex-direction: row;
+    padding:0px;
+}
+menu{
+    flex:1;
+    padding:0px;
+}
+mailpanel{
+    flex:4
+}
